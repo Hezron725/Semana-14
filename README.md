@@ -25,8 +25,6 @@ Cambios en el área de trabajo
 
 - git diff --staged: Muestra las diferencias entre el área de staging y el último commit.
 
-![Manzanas-Chihuahua4](https://github.com/user-attachments/assets/2b6c2555-ffbd-40e8-888a-8f79ad88babd)
 
-## Recursos
+![Captura de pantalla 2024-10-24 191227](https://github.com/user-attachments/assets/849cbb3b-ea17-4782-9fb1-8134976beac6)
 
-* https://www.markdownguide.org/basic-syntax/
