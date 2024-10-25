@@ -1,18 +1,31 @@
-# Semana-14
+# Semana 14
 
 
 # Tema: Git
 
-## Materia: Programación II
+# Materia: Programación II
 
-**Hezron Arfaxad Barillas Herrera**
+# Hezron Arfaxad Barillas Herrera
 
-### Comandos básicos de git
+## Comandos básicos de git
 
-* comando1
-* comando2
 
-![Imagen del repositorio](nombre-de-la-imagen.png)
+- git init: Inicializa un nuevo repositorio Git en el directorio actual.
+
+- git clone <URL>: Clona un repositorio existente desde una URL.
+Cambios en el área de trabajo
+
+- git status: Muestra el estado de los archivos en el área de trabajo (modificados, agregados, eliminados).
+
+- git add <archivo>: Agrega un archivo al área de staging para el próximo commit.
+
+- git add .: Agrega todos los archivos modificados al área de staging.
+
+- git diff: Muestra las diferencias entre el área de trabajo y el último commit.
+
+- git diff --staged: Muestra las diferencias entre el área de staging y el último commit.
+
+![Manzanas-Chihuahua4](https://github.com/user-attachments/assets/2b6c2555-ffbd-40e8-888a-8f79ad88babd)
 
 ## Recursos
 
