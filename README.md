@@ -26,5 +26,6 @@ Cambios en el área de trabajo
 - git diff --staged: Muestra las diferencias entre el área de staging y el último commit.
 
 
-![Captura de pantalla 2024-10-24 191227](https://github.com/user-attachments/assets/849cbb3b-ea17-4782-9fb1-8134976beac6)
+
+![Captura de pantalla 2024-10-24 192627](https://github.com/user-attachments/assets/6077dda5-928d-4449-a62e-a5485c2fac96)
 
